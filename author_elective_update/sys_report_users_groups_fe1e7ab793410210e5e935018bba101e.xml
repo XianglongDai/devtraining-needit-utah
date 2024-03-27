@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="DELETE">
+        <group_id display_value="Analytics Settings Managers" name="Analytics Settings Managers">019ad92ec7230010393d265c95c260dd</group_id>
+        <report_id display_value="Active NeedIt Requests by Type">c9ec663f93010210e5e935018bba109d</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 02:58:17</sys_created_on>
+        <sys_id>fe1e7ab793410210e5e935018bba101e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c9ec663f93010210e5e935018bba109d</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_report_users_groups_fe1e7ab793410210e5e935018bba101e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 02:58:17</sys_updated_on>
+        <user_id/>
+    </sys_report_users_groups>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3b9f55851bca79581024eb9b2d4bcbdb</instance_id>
+        <instance_name>dev191732</instance_name>
+        <name>sys_report_users_groups_fe1e7ab793410210e5e935018bba101e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id display_value="Analytics Settings Managers" name="Analytics Settings Managers">019ad92ec7230010393d265c95c260dd</group_id><report_id display_value="Active NeedIt Requests by Type">c9ec663f93010210e5e935018bba109d</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-27 02:58:17</sys_created_on><sys_id>fe1e7ab793410210e5e935018bba101e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>c9ec663f93010210e5e935018bba109d</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_report_users_groups_fe1e7ab793410210e5e935018bba101e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-27 02:58:17</sys_updated_on><user_id/></sys_report_users_groups></record_update>]]></payload>
+        <payload_hash>-1414795346</payload_hash>
+        <record_name>c9ec663f93010210e5e935018bba109d</record_name>
+        <reverted_from/>
+        <source>8e42f8b293054210e5e935018bba108e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 02:58:17</sys_created_on>
+        <sys_id>321eb27f93410210e5e935018bba10fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e7dd815890000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 02:58:17</sys_updated_on>
+        <type>Report Users and Groups</type>
+        <update_guid>761eb27f74410210e828c427fc9a0afd</update_guid>
+        <update_guid_history>761eb27f74410210e828c427fc9a0afd:-1414795346</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 03:02:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_users_groups">sys_report_users_groups</sys_db_object>
+        <sys_id>4e68ad7c206f44609fd98ab4fd228400</sys_id>
+        <sys_metadata>fe1e7ab793410210e5e935018bba101e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c9ec663f93010210e5e935018bba109d</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="Active NeedIt Requests by Type">c9ec663f93010210e5e935018bba109d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_report_users_groups_fe1e7ab793410210e5e935018bba101e</sys_update_name>
+        <sys_update_version display_value="sys_report_users_groups_fe1e7ab793410210e5e935018bba101e">321eb27f93410210e5e935018bba10fe</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 03:02:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
